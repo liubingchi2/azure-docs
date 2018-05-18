@@ -62,7 +62,7 @@ Sign in to the [Azure portal](https://portal.azure.com/).
 
 ## View metrics for your logic app
 
-1. Click the **Monitor** option in the left-hand navigation pane.
+1. Click the **Monitor** option in the left-hand navigation panel.
 
 2. Select the **Metrics** tab, fill in the **Subscription**, **Resource Group**, **Resource Type** and **Resource** information for your logic app.
 
